@@ -1,1 +1,1 @@
-# LobarFayzullaeva
+# Google collab
